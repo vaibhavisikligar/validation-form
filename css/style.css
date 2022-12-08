@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-validation{
+    width: 50%;
+    margin: 2rem auto;
+}
+.submit-btn{
+    padding: 0.3rem 0.5rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0.2rem;
+}
+#f1 p{
+    text-align: left;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: red;
+    margin-bottom: 1.2rem;
+}
